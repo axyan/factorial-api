@@ -14,3 +14,5 @@ shows multithreading completing its computation about 1 minute earlier than
 single threading.
 
 Simple tests to ensure factorials are calculated correctly.
+
+Credit/Inspiration: https://github.com/BuildingXwithJS/node-worker-factorial
